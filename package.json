@@ -1,0 +1,23 @@
+{
+  "name": "check-iscowalive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "iscowalive": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/cowlab-lugo/check-iscowalive"
+  },
+  "keywords": [
+    "cowlab",
+    "lugo"
+  ],
+  "author": "Andrés Maneiro <andres.maneiro@gmail.com>",
+  "license": "GPL-3.0"
+}
